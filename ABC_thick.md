@@ -1,6 +1,6 @@
 # NASIS_maps
 ## Codes used to create soil property maps.
-### Calculate A, B, and C horizon thickness for any gSSURGO database. Code is not efficient at all because I had to meet certain requirements for GIS Programming and Automation class. Will Create a cleaner script.
+### Creates A, B, and C horizon thickness maps for any gSSURGO database. Code is not efficient at all because I had to meet certain requirements for GIS Programming and Automation class. Will Create a cleaner script.
 ### Requires 1) gSSURGO File Geodatabase; 2) an empty Template mxd file; 3) Symbology layer files in an mxd file for thickness rasters (line 255) 4) Script saved to workspace 
 
 ```
